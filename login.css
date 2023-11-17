@@ -36,6 +36,9 @@ input {
     width: 200px;
     margin: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 6px;
+    border: 1px;
+    border-bottom: 3px solid rgb(144, 5, 5);
 }
 
 .btn-login {
@@ -49,6 +52,7 @@ input {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     cursor: pointer;
     letter-spacing: 1px;
+    border-radius: 6px;
 }
 
 .img-grao {
